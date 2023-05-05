@@ -5,7 +5,7 @@ from datetime import datetime
 from fabric.api import env, local, put, run, runs_once
 
 
-env.hosts = ['52.86.242.93', '35.174.208.155']
+env.hosts = ['54.226.29.105', '54.236.52.173']
 
 
 @runs_once
